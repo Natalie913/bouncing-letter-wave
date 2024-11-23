@@ -70,7 +70,7 @@ span:nth-child(8) {
         0%{
             color:yellow;
             transform:translateY(0);
-            text-shado:0 0 10px yellow;
+            text-shadow: 0 0 10px yellow;
         }
         
         33%{
