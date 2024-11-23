@@ -28,7 +28,7 @@
         color:brown;
         letter-spacing: 10px;
         animation: bounce 1s infinite ease-in;
-        animation-delay: calc(2s * var (--i));
+        animation-delay: calc(1s * var (--i));
     }
 
 
